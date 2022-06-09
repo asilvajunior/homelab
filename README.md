@@ -25,7 +25,7 @@ The below lists the hardware and some specs of my homelab & network infrastructu
 
 | Device             | CPU        | RAM   | Storage              | Operating System              | Purpose    |
 | -------------------|------------|-------|----------------------|-------------------------------|------------|
-| Dell OptiPlex 3060 | I7-6700    | 16GB  | 500GB HDD            | WIN19K Datacenter             | Hypervisor |
+| Dell OptiPlex 3050 | I7-6700    | 16GB  | 500GB HDD            | WIN19K Datacenter             | Hypervisor |
 | TP-Link TL-SG1008P | N/A        | N/A   | N/A                  | N/A                           | Switch PoE |
 | MikroTik hAP Ac2   | IPQ-4018   | 128MB | 16MB                 | RouterOS                      | Router     |
 | Raspberry Pi 3B+   | Cortex-A53 | 1GB   | 64GB SD Card         | Raspberry PI OS Lite (64-BIT) | Pi-hole    |
