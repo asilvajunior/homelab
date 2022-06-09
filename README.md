@@ -35,13 +35,13 @@ The below lists the hardware and some specs of my homelab & network infrastructu
 
 Project status: **Alpha**
 
-- [] Fully automated with infrastructure as code 
-- [] Modularized components stand on layered architecture
-- [] Versioned and declarative infrastructure on top of GitOps
-- [] Kubernetes cluster setup via k3s
-- [] Distributed storage
-- [] CI/CD platform
-- [] Observability platform
+- [ ] Fully automated with infrastructure as code 
+- [ ] Modularized components stand on layered architecture
+- [ ] Versioned and declarative infrastructure on top of GitOps
+- [ ] Kubernetes cluster setup via k3s
+- [ ] Distributed storage
+- [ ] CI/CD platform
+- [ ] Observability platform
 
 ## :wrench:&nbsp; Tech stack
 
