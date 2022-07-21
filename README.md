@@ -31,6 +31,7 @@ The below lists the hardware and some specs of my homelab & network infrastructu
 | Raspberry Pi 3B            | Cortex-A53 | 1GB   | 16GB SD Card         | Raspberry PI OS Lite (64-BIT) | Pi-hole    |
 | Raspberry Pi 4B + PoE+ HAT | Cortex-A72 | 4GB   | 32GB SD Card         | Raspberry PI OS Lite (64-BIT) | Kubernetes |
 | Raspberry Pi 4B + PoE+ HAT | Cortex-A72 | 4GB   | 32GB SD Card         | Raspberry PI OS Lite (64-BIT) | kubernetes |
+| Raspberry Pi 4B + PoE+ HAT | Cortex-A72 | 4GB   | 32GB SD Card         | Raspberry PI OS Lite (64-BIT) | kubernetes |
 
 ## ✨ Features
 
