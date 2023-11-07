@@ -84,6 +84,10 @@ My homelab uses the following software.
   </tr>
 </table>
 
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
 ## :memo: License
 
 This project is under [MIT License](./LICENSE).
