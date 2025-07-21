@@ -26,7 +26,7 @@ The below lists the hardware and some specs of my homelab & network infrastructu
 
 | Device                     | CPU        | RAM   | Storage              | Operating System                | Purpose        |
 | ---------------------------|:----------:|:-----:|:--------------------:|:-------------------------------:|:--------------:|
-| Dell OptiPlex 3050         | I7-6700    | 32GB  | 500GB HDD            | Proxmox Virtual Environment 8.4 | Hypervisor     |
+| Dell OptiPlex 3050         | I7-6700    | 32GB  | 1TB SSD              | Proxmox Virtual Environment 8.4 | Hypervisor     |
 | TP-Link TL-SG1008P         | N/A        | N/A   | N/A                  | N/A                             | Switch PoE     |
 | MikroTik hAP Ac2           | IPQ-4018   | 128MB | 16MB                 | RouterOS                        | Router         |
 | Raspberry Pi 3B            | Cortex-A53 | 1GB   | 16GB SD Card         | Raspberry PI OS Lite (64-BIT)   | Pi-hole        |
@@ -41,7 +41,7 @@ The below lists the hardware and some specs of my homelab & network infrastructu
 Project status: **Alpha**
 
 - [ ] Fully automated with infrastructure as code 
-- [ ] Modularized components stand on layered architecture
+- [x] Modularized components stand on layered architecture
 - [ ] Versioned and declarative infrastructure on top of GitOps
 - [x] Kubernetes cluster
 - [x] Distributed storage
